@@ -6,8 +6,8 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true
   },
-  basePath: process.env.NODE_ENV === 'production' ? '/dev-think-scrape' : '',
-  assetPrefix: process.env.NODE_ENV === 'production' ? '/dev-think-scrape/' : '',
+  basePath: process.env.NODE_ENV === 'production' ? '/devthink-archive' : '',
+  assetPrefix: process.env.NODE_ENV === 'production' ? '/devthink-archive/' : '',
 };
 
 export default nextConfig;
