@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { ArrowRightIcon, BookOpenIcon, SearchIcon, TrendingUpIcon } from 'lucide-react';
+import { ArrowRightIcon, BookOpenIcon, TrendingUpIcon } from 'lucide-react';
 import Layout from '@/components/ui/Layout';
 import ArticleCard from '@/components/ui/ArticleCard';
 import { getAllArticles } from '@/lib/articles';

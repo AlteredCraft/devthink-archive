@@ -2,22 +2,10 @@
 
 import Link from 'next/link';
 import { useState } from 'react';
-import { SearchIcon, MenuIcon, XIcon } from 'lucide-react';
+import { MenuIcon, XIcon } from 'lucide-react';
 
-interface HeaderProps {
-  onSearch?: (query: string) => void;
-}
-
-export default function Header({ onSearch }: HeaderProps) {
+export default function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [searchQuery, setSearchQuery] = useState('');
-
-  const handleSearch = (e: React.FormEvent) => {
-    e.preventDefault();
-    if (onSearch) {
-      onSearch(searchQuery);
-    }
-  };
 
   return (
     <header className="sticky top-0 z-50 w-full border-b bg-card/95 backdrop-blur supports-[backdrop-filter]:bg-card/60">
@@ -44,28 +32,9 @@ export default function Header({ onSearch }: HeaderProps) {
           >
             All Articles
           </Link>
-          <Link
-            href="/search"
-            className="text-sm font-medium transition-colors hover:text-primary"
-          >
-            Search
-          </Link>
         </nav>
 
         <div className="flex items-center space-x-4">
-          <form onSubmit={handleSearch} className="hidden md:flex">
-            <div className="relative">
-              <SearchIcon className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
-              <input
-                type="search"
-                placeholder="Search articles..."
-                className="flex h-10 w-[200px] rounded-md border border-border bg-background px-3 py-2 pl-9 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                value={searchQuery}
-                onChange={(e) => setSearchQuery(e.target.value)}
-              />
-            </div>
-          </form>
-
           <button
             className="md:hidden"
             onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -97,27 +66,7 @@ export default function Header({ onSearch }: HeaderProps) {
               >
                 All Articles
               </Link>
-              <Link
-                href="/search"
-                className="text-sm font-medium transition-colors hover:text-primary"
-                onClick={() => setIsMenuOpen(false)}
-              >
-                Search
-              </Link>
             </nav>
-            
-            <form onSubmit={handleSearch} className="mt-4">
-              <div className="relative">
-                <SearchIcon className="absolute left-2.5 top-2.5 h-4 w-4 text-muted-foreground" />
-                <input
-                  type="search"
-                  placeholder="Search articles..."
-                  className="flex h-10 w-full rounded-md border border-border bg-background px-3 py-2 pl-9 text-sm ring-offset-background file:border-0 file:bg-transparent file:text-sm file:font-medium placeholder:text-muted-foreground focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 disabled:cursor-not-allowed disabled:opacity-50"
-                  value={searchQuery}
-                  onChange={(e) => setSearchQuery(e.target.value)}
-                />
-              </div>
-            </form>
           </div>
         </div>
       )}

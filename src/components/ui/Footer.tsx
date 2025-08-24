@@ -34,12 +34,6 @@ export default function Footer() {
               >
                 All Articles
               </Link>
-              <Link
-                href="/search"
-                className="text-sm text-muted-foreground hover:text-primary transition-colors"
-              >
-                Search
-              </Link>
             </nav>
           </div>
 
