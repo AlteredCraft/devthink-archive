@@ -9,61 +9,16 @@ export default function Home() {
 
   return (
     <Layout>
-      {/* Hero Section */}
+      {/* Hero Section with title and Archive Info */}
       <section className="relative overflow-hidden bg-gradient-to-br from-primary/5 via-background to-secondary/5">
         <div className="container mx-auto px-4 py-16 md:py-24">
           <div className="max-w-4xl mx-auto text-center">
-            <div className="inline-flex items-center rounded-full bg-primary/10 px-4 py-2 text-sm font-medium text-primary mb-6">
-              <TrendingUpIcon className="mr-2 h-4 w-4" />
-              {allArticles.length}+ Articles Available
-            </div>
-            
             <h1 className="text-4xl md:text-6xl font-bold tracking-tight mb-6">
               <span className="gradient-text">DevThink.AI</span>
               <br />
               Newsletter Archive
             </h1>
             
-            <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              This is a static archive of the first 2+ years of AlteredCraft (formerly known as DevThink.AI), 
-              covering AI development, tools, and insights for software developers.
-            </p>
-            
-            <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Link
-                href="/articles/page/1"
-                className="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground font-medium rounded-lg hover:bg-primary/90 transition-colors"
-              >
-                <BookOpenIcon className="mr-2 h-5 w-5" />
-                Browse Archive
-                <ArrowRightIcon className="ml-2 h-5 w-5" />
-              </Link>
-              
-              <a
-                href="https://alteredcraft.com"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="inline-flex items-center justify-center px-6 py-3 border border-border bg-background hover:bg-accent text-foreground font-medium rounded-lg transition-colors"
-              >
-                <TrendingUpIcon className="mr-2 h-5 w-5" />
-                Current Newsletter
-                <ArrowRightIcon className="ml-2 h-5 w-5" />
-              </a>
-            </div>
-          </div>
-        </div>
-        
-        <div className="absolute inset-0 -z-10 overflow-hidden">
-          <div className="absolute left-[calc(50%-4rem)] top-10 -z-10 transform-gpu blur-3xl sm:left-[calc(50%-18rem)] lg:left-48 lg:top-[calc(50%-30rem)] xl:left-[calc(50%-24rem)]">
-            <div className="aspect-[1108/632] w-[69.25rem] bg-gradient-to-r from-primary/20 to-secondary/20 opacity-20"></div>
-          </div>
-        </div>
-      </section>
-
-      {/* Archive Info & CTA */}
-      <section className="py-16 md:py-24 bg-secondary/20">
-        <div className="container mx-auto px-4">
-          <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold tracking-tight mb-6">Archive Information</h2>
             <p className="text-lg text-muted-foreground mb-8 max-w-2xl mx-auto">
               This archive contains the complete history of the newsletter from its DevThink.AI era. 
@@ -90,6 +45,12 @@ export default function Home() {
                 <ArrowRightIcon className="ml-2 h-5 w-5" />
               </a>
             </div>
+          </div>
+        </div>
+        
+        <div className="absolute inset-0 -z-10 overflow-hidden">
+          <div className="absolute left-[calc(50%-4rem)] top-10 -z-10 transform-gpu blur-3xl sm:left-[calc(50%-18rem)] lg:left-48 lg:top-[calc(50%-30rem)] xl:left-[calc(50%-24rem)]">
+            <div className="aspect-[1108/632] w-[69.25rem] bg-gradient-to-r from-primary/20 to-secondary/20 opacity-20"></div>
           </div>
         </div>
       </section>
