@@ -1,4 +1,5 @@
 import Link from 'next/link';
+import Image from 'next/image';
 import { ArrowRightIcon, BookOpenIcon, TrendingUpIcon } from 'lucide-react';
 import Layout from '@/components/ui/Layout';
 import ArticleCard from '@/components/ui/ArticleCard';
@@ -40,7 +41,13 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="inline-flex items-center justify-center px-6 py-3 bg-primary text-primary-foreground font-medium rounded-lg hover:bg-primary/90 transition-colors"
               >
-                <TrendingUpIcon className="mr-2 h-5 w-5" />
+                <Image 
+                  src="/alteredcraft.logo.v1.png"
+                  alt="AlteredCraft Logo"
+                  width={64}
+                  height={64}
+                  className="mr-4"
+                />
                 Subscribe to Current Newsletter
                 <ArrowRightIcon className="ml-2 h-5 w-5" />
               </a>
