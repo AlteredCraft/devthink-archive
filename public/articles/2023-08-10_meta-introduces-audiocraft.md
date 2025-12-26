@@ -1,6 +1,6 @@
 ---
 title: Meta Introduces AudioCraft - A New Framework for Generative AI Audio
-author: Unknown
+author: Sam Keen
 date: August 10, 2023
 url: https://devthink.ai/p/meta-introduces-audiocraft
 scraped_at: 2025-07-29T19:29:19.853495

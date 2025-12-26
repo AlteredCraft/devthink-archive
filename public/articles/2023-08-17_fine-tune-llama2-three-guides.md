@@ -1,6 +1,6 @@
 ---
 title: Fine tune Llama-2 ; three guides
-author: Unknown
+author: Sam Keen
 date: August 17, 2023
 url: https://devthink.ai/p/fine-tune-llama2-three-guides
 scraped_at: 2025-07-29T19:29:10.188982

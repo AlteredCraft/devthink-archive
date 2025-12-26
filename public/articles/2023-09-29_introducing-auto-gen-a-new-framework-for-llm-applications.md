@@ -1,6 +1,6 @@
 ---
 title: Introducing AutoGen: A New Framework for LLM Applications
-author: Unknown
+author: Sam Keen
 date: September 29, 2023
 url: https://devthink.ai/p/introducing-auto-gen-a-new-framework-for-llm-applications
 scraped_at: 2025-07-29T19:28:23.421272

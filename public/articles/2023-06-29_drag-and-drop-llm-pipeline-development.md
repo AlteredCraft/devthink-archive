@@ -1,6 +1,6 @@
 ---
 title: Drag and drop LLM pipeline development
-author: Unknown
+author: Sam Keen
 date: June 29, 2023
 url: https://devthink.ai/p/drag-and-drop-llm-pipeline-development
 scraped_at: 2025-07-29T19:30:06.381514

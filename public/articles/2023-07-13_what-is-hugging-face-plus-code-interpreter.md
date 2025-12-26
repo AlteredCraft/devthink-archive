@@ -1,6 +1,6 @@
 ---
 title: 🤗 What is Hugging Face
-author: Unknown
+author: Sam Keen
 date: July 13, 2023
 url: https://devthink.ai/p/what-is-hugging-face-plus-code-interpreter
 scraped_at: 2025-07-29T19:29:50.895001

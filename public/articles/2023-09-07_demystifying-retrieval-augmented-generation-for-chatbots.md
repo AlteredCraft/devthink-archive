@@ -1,6 +1,6 @@
 ---
 title: Demystifying Retrieval Augmented Generation for Chatbots
-author: Unknown
+author: Sam Keen
 date: September 07, 2023
 url: https://devthink.ai/p/demystifying-retrieval-augmented-generation-for-chatbots
 scraped_at: 2025-07-29T19:28:47.026884

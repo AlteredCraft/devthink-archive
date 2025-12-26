@@ -1,6 +1,6 @@
 ---
 title: A Hackers' Guide to Language Models
-author: Unknown
+author: Sam Keen
 date: October 05, 2023
 url: https://devthink.ai/p/a-hackers-guide-to-language-models
 scraped_at: 2025-07-29T19:28:15.898074

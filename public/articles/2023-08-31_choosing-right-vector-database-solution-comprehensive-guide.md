@@ -1,6 +1,6 @@
 ---
 title: Choosing the Right Vector Database Solution: A Comprehensive Guide
-author: Unknown
+author: Sam Keen
 date: August 31, 2023
 url: https://devthink.ai/p/choosing-right-vector-database-solution-comprehensive-guide
 scraped_at: 2025-07-29T19:28:54.560746

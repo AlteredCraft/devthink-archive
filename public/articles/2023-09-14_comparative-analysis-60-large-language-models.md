@@ -1,6 +1,6 @@
 ---
 title: 🔬 Comparative Analysis of 60+ Large Language Models
-author: Unknown
+author: Sam Keen
 date: September 14, 2023
 url: https://devthink.ai/p/comparative-analysis-60-large-language-models
 scraped_at: 2025-07-29T19:28:39.250681

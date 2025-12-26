@@ -1,6 +1,6 @@
 ---
 title: OpenLLM, an open platform for operating LLMs in production
-author: Unknown
+author: Sam Keen
 date: July 20, 2023
 url: https://devthink.ai/p/openllm-plus-best-genai-youtube-channels
 scraped_at: 2025-07-29T19:29:43.096599

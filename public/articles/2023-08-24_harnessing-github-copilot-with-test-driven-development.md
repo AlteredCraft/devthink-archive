@@ -1,6 +1,6 @@
 ---
 title: 🪢 Harnessing GitHub Copilot with Test-Driven Development
-author: Unknown
+author: Sam Keen
 date: August 24, 2023
 url: https://devthink.ai/p/harnessing-github-copilot-with-test-driven-development
 scraped_at: 2025-07-29T19:29:02.497525

@@ -1,6 +1,6 @@
 ---
 title: Building a Context-Aware Chatbot Using OpenAI, Pinecone and Vercel AI SDK
-author: Unknown
+author: Sam Keen
 date: August 03, 2023
 url: https://devthink.ai/p/building-context-aware-chatbot-using-openai-pinecone-vercel
 scraped_at: 2025-07-29T19:29:27.297173

@@ -1,6 +1,6 @@
 ---
 title: Learn to leverage GenAI in your apps in an afternoon
-author: Unknown
+author: Sam Keen
 date: July 27, 2023
 url: https://devthink.ai/p/learn-to-leverage-genai-in-an-afternoon
 scraped_at: 2025-07-29T19:29:35.471544

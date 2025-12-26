@@ -1,6 +1,6 @@
 ---
 title: 🔍 Focus on the importance of prompting with LLMs
-author: Unknown
+author: Sam Keen
 date: July 06, 2023
 url: https://devthink.ai/p/tips-for-prompt-engineering
 scraped_at: 2025-07-29T19:29:58.683803

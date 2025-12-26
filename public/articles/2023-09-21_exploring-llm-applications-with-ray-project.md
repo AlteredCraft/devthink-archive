@@ -1,6 +1,6 @@
 ---
 title: Exploring LLM Applications with Ray Project
-author: Unknown
+author: Sam Keen
 date: September 21, 2023
 url: https://devthink.ai/p/exploring-llm-applications-with-ray-project
 scraped_at: 2025-07-29T19:28:31.492663

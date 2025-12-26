@@ -1,173 +1,5 @@
 [
   {
-    "title": "Context Rot: How LLMs Degrade with Longer Context Windows",
-    "author": "Sam Keen",
-    "date": "July 28, 2025",
-    "url": "https://devthink.ai/p/context-rot-how-llms-degrade-with-longer-context-windows-057d",
-    "filename": "2025-07-28_context-rot-how-llms-degrade-with-longer-context-windows-057d.md"
-  },
-  {
-    "title": "Claude Code in Docker: Secure AI Coding Setup",
-    "author": "Sam Keen",
-    "date": "July 21, 2025",
-    "url": "https://devthink.ai/p/claude-code-in-docker-secure-ai-coding-setup-2d79",
-    "filename": "2025-07-21_claude-code-in-docker-secure-ai-coding-setup-2d79.md"
-  },
-  {
-    "title": "Add Long-Term Memory to Chatbots with Mem0",
-    "author": "Sam Keen",
-    "date": "July 14, 2025",
-    "url": "https://devthink.ai/p/add-long-term-memory-to-chatbots-with-mem0-ea25",
-    "filename": "2025-07-14_add-long-term-memory-to-chatbots-with-mem0-ea25.md"
-  },
-  {
-    "title": "Mastering Reasoning LLMs: A Developer's Guide to Advanced AI Applications",
-    "author": "Sam Keen",
-    "date": "July 07, 2025",
-    "url": "https://devthink.ai/p/mastering-reasoning-llms-a-developer-s-guide-to-advanced-ai-applications-a7c9",
-    "filename": "2025-07-07_mastering-reasoning-llms-a-developer-s-guide-to-advanced-ai-applications-a7c9.md"
-  },
-  {
-    "title": "Workflows vs. Agents Guide",
-    "author": "Sam Keen",
-    "date": "June 30, 2025",
-    "url": "https://devthink.ai/p/workflows-vs-agents-guide-3ea7",
-    "filename": "2025-06-30_workflows-vs-agents-guide-3ea7.md"
-  },
-  {
-    "title": "Karpathy's Software 3.0 Vision",
-    "author": "Sam Keen",
-    "date": "June 23, 2025",
-    "url": "https://devthink.ai/p/karpathy-s-software-3-0-vision-8f3e",
-    "filename": "2025-06-23_karpathy-s-software-3-0-vision-8f3e.md"
-  },
-  {
-    "title": "Anthropic's Multi-Agent System Blueprint",
-    "author": "Sam Keen",
-    "date": "June 16, 2025",
-    "url": "https://devthink.ai/p/anthropic-s-multi-agent-system-blueprint-e8e6",
-    "filename": "2025-06-16_anthropic-s-multi-agent-system-blueprint-e8e6.md"
-  },
-  {
-    "title": "Mastering Prompt Engineering for AI Assistants",
-    "author": "Sam Keen",
-    "date": "June 09, 2025",
-    "url": "https://devthink.ai/p/mastering-prompt-engineering-for-ai-assistants-381d",
-    "filename": "2025-06-09_mastering-prompt-engineering-for-ai-assistants-381d.md"
-  },
-  {
-    "title": "AgenticSeek: Open-Source Local Manus",
-    "author": "Sam Keen",
-    "date": "June 02, 2025",
-    "url": "https://devthink.ai/p/agenticseek-open-source-local-manus-ee1e",
-    "filename": "2025-06-02_agenticseek-open-source-local-manus-ee1e.md"
-  },
-  {
-    "title": "Claude 4 Boosts Developer Productivity with New Models",
-    "author": "Sam Keen",
-    "date": "May 26, 2025",
-    "url": "https://devthink.ai/p/claude-4-boosts-developer-productivity-with-new-models-9a6d",
-    "filename": "2025-05-26_claude-4-boosts-developer-productivity-with-new-models-9a6d.md"
-  },
-  {
-    "title": "OpenAI's Codex: a cloud-based engineering agent",
-    "author": "Sam Keen",
-    "date": "May 19, 2025",
-    "url": "https://devthink.ai/p/openai-s-codex-a-cloud-based-engineering-agent-294a",
-    "filename": "2025-05-19_openai-s-codex-a-cloud-based-engineering-agent-294a.md"
-  },
-  {
-    "title": "Why AI Is Expanding Programming Jobs",
-    "author": "Sam Keen",
-    "date": "May 12, 2025",
-    "url": "https://devthink.ai/p/why-ai-is-expanding-programming-jobs",
-    "filename": "2025-05-12_why-ai-is-expanding-programming-jobs.md"
-  },
-  {
-    "title": "Building Reliable AI Agents: 12 Factor Framework",
-    "author": "Sam Keen",
-    "date": "May 05, 2025",
-    "url": "https://devthink.ai/p/building-reliable-ai-agents-12-factor-framework",
-    "filename": "2025-05-05_building-reliable-ai-agents-12-factor-framework.md"
-  },
-  {
-    "title": "Dia: Open source, ultra-Realistic Speech Generation",
-    "author": "Sam Keen",
-    "date": "April 28, 2025",
-    "url": "https://devthink.ai/p/dia-open-source-ultra-realistic-speech-generation",
-    "filename": "2025-04-28_dia-open-source-ultra-realistic-speech-generation.md"
-  },
-  {
-    "title": "Production-Ready AI Agents with MCP-Agent",
-    "author": "Sam Keen",
-    "date": "April 21, 2025",
-    "url": "https://devthink.ai/p/production-ready-ai-agents-with-mcp-agent",
-    "filename": "2025-04-21_production-ready-ai-agents-with-mcp-agent.md"
-  },
-  {
-    "title": "Extending LLMs with MCP Servers",
-    "author": "Sam Keen",
-    "date": "April 14, 2025",
-    "url": "https://devthink.ai/p/extending-llms-with-mcp-servers",
-    "filename": "2025-04-14_extending-llms-with-mcp-servers.md"
-  },
-  {
-    "title": "Llama 4: Meta's Multimodal LLM with 10M Token Context",
-    "author": "Sam Keen",
-    "date": "April 07, 2025",
-    "url": "https://devthink.ai/p/llama-4-meta-s-multimodal-llm-with-10m-token-context",
-    "filename": "2025-04-07_llama-4-meta-s-multimodal-llm-with-10m-token-context.md"
-  },
-  {
-    "title": "Enhancing Document Search with Visual RAG",
-    "author": "Sam Keen",
-    "date": "March 31, 2025",
-    "url": "https://devthink.ai/p/enhancing-document-search-with-visual-rag",
-    "filename": "2025-03-31_enhancing-document-search-with-visual-rag.md"
-  },
-  {
-    "title": "Why AI Makes the Skill of Coding More Valuable, Not ObsoleteNew Post",
-    "author": "Sam Keen",
-    "date": "March 24, 2025",
-    "url": "https://devthink.ai/p/why-ai-makes-the-skill-of-coding-more-valuable-not-obsoletenew-post",
-    "filename": "2025-03-24_why-ai-makes-the-skill-of-coding-more-valuable-not-obsoletenew-post.md"
-  },
-  {
-    "title": "Skip the Waitlist, AI Agents with OpenManus",
-    "author": "Sam Keen",
-    "date": "March 17, 2025",
-    "url": "https://devthink.ai/p/skip-the-waitlist-ai-agents-with-openmanus",
-    "filename": "2025-03-17_skip-the-waitlist-ai-agents-with-openmanus.md"
-  },
-  {
-    "title": "Microsoft Launches Free 10-Lesson Course on Building AI Agents",
-    "author": "Sam Keen",
-    "date": "March 10, 2025",
-    "url": "https://devthink.ai/p/microsoft-launches-free-10-lesson-course-on-building-ai-agents",
-    "filename": "2025-03-10_microsoft-launches-free-10-lesson-course-on-building-ai-agents.md"
-  },
-  {
-    "title": "Claude 3.7 Sonnet realeased: Extended Thinking, Agentic Coding",
-    "author": "Sam Keen",
-    "date": "March 03, 2025",
-    "url": "https://devthink.ai/p/claude-3-7-sonnet-realeased-extended-thinking-agentic-coding",
-    "filename": "2025-03-03_claude-3-7-sonnet-realeased-extended-thinking-agentic-coding.md"
-  },
-  {
-    "title": "Building Local AI Agents from Scratch: A Developer's Guide Using Ollama",
-    "author": "Sam Keen",
-    "date": "February 24, 2025",
-    "url": "https://devthink.ai/p/building-local-ai-agents-from-scratch-a-developer-s-guide-using-ollama",
-    "filename": "2025-02-24_building-local-ai-agents-from-scratch-a-developer-s-guide-using-ollama.md"
-  },
-  {
-    "title": "Hugging Face Launches Free AI Agents Course: Fundamentals to Prod Implementation",
-    "author": "Sam Keen",
-    "date": "February 17, 2025",
-    "url": "https://devthink.ai/p/hugging-face-launches-free-ai-agents-course-fundamentals-to-prod-implementation",
-    "filename": "2025-02-17_hugging-face-launches-free-ai-agents-course-fundamentals-to-prod-implementation.md"
-  },
-  {
     "title": "GPT Researcher: An Open-Source Autonomous Agent for Building Advanced Research Applications",
     "author": "Sam Keen",
     "date": "February 10, 2025",
@@ -252,6 +84,13 @@
     "filename": "2024-11-18_9-must-know-open-source-ai-coding-tools-for-software-development.md"
   },
   {
+    "title": "Taming Error Flow with Result Objects in Python",
+    "author": "Sam Keen",
+    "date": "November 12, 2024",
+    "url": "https://samkeen.dev/taming-error-flow-with-result-objects-in-python",
+    "filename": "2024-11-12_taming-error-flow-with-result-objects-in-python.md"
+  },
+  {
     "title": "Cursor AI Review: A Veteran Developer's Guide to Boosting Coding Productivity with AI",
     "author": "Sam Keen",
     "date": "November 11, 2024",
@@ -329,14 +168,14 @@
     "filename": "2024-09-02_graph-rag-a-conceptual-introduction-to-powerful-ai-applications.md"
   },
   {
-    "title": "Introducing Zed AI—Integrating Language Models into a Powerful Text Editor",
+    "title": "Introducing Zed AI\u2014Integrating Language Models into a Powerful Text Editor",
     "author": "Sam Keen",
     "date": "August 26, 2024",
     "url": "https://devthink.ai/p/introducing-zed-ai-integrating-language-models-into-a-powerful-text-editor",
     "filename": "2024-08-26_introducing-zed-ai-integrating-language-models-into-a-powerful-text-editor.md"
   },
   {
-    "title": "Multi-Agent-as-a-Service — A Senior Engineer's Overview",
+    "title": "Multi-Agent-as-a-Service \u2014 A Senior Engineer's Overview",
     "author": "Sam Keen",
     "date": "August 19, 2024",
     "url": "https://devthink.ai/p/multi-agent-as-a-service-a-senior-engineers-overview",
@@ -355,6 +194,13 @@
     "date": "August 05, 2024",
     "url": "https://devthink.ai/p/building-local-perplexity-alternative-opensource-tools",
     "filename": "2024-08-05_building-local-perplexity-alternative-opensource-tools.md"
+  },
+  {
+    "title": "Python Protocols: Combining Duck Typing with Type Hints for Better Coding",
+    "author": "Sam Keen",
+    "date": "August 03, 2024",
+    "url": "https://samkeen.dev/python-protocols-combining-duck-typing-with-type-hints-for-better-coding",
+    "filename": "2024-08-03_python-protocols-combining-duck-typing-with-type-hints-for-better-coding.md"
   },
   {
     "title": "Why Fine-Tuning is (Probably) Not for You",
@@ -385,11 +231,25 @@
     "filename": "2024-07-08_route-llm-an-open-source-framework-for-cost-effective-llm-routing.md"
   },
   {
+    "title": "Understanding Enums in Rust: A Beginner's Guide",
+    "author": "Sam Keen",
+    "date": "July 05, 2024",
+    "url": "https://samkeen.dev/understanding-enums-in-rust-a-beginners-guide",
+    "filename": "2024-07-05_understanding-enums-in-rust-a-beginners-guide.md"
+  },
+  {
     "title": "Top 9 Libraries to Accelerate LLM Building",
     "author": "Sam Keen",
     "date": "July 01, 2024",
     "url": "https://devthink.ai/p/top-9-libraries-to-accelerate-llm-building",
     "filename": "2024-07-01_top-9-libraries-to-accelerate-llm-building.md"
+  },
+  {
+    "title": "Enhancing RAG Systems with Rerankers: A Practical Guide",
+    "author": "Sam Keen",
+    "date": "June 25, 2024",
+    "url": "https://samkeen.dev/enhancing-rag-systems-with-rerankers-a-practical-guide",
+    "filename": "2024-06-25_enhancing-rag-systems-with-rerankers-a-practical-guide.md"
   },
   {
     "title": "A Practical Approach to Using Generative AI in the SDLC",
@@ -420,6 +280,13 @@
     "filename": "2024-06-03_auto-gen-enabling-next-gen-large-language-model-applications.md"
   },
   {
+    "title": "Generics in Rust: A Beginner's Guide",
+    "author": "Sam Keen",
+    "date": "June 03, 2024",
+    "url": "https://samkeen.dev/generics-in-rust-a-beginners-guide",
+    "filename": "2024-06-03_generics-in-rust-a-beginners-guide.md"
+  },
+  {
     "title": "Experts.js: Simplifying the OpenAI Assistants API for Multi-Agent Systems",
     "author": "Sam Keen",
     "date": "May 27, 2024",
@@ -441,6 +308,13 @@
     "filename": "2024-05-13_building-agentic-rag-with-llamaindex.md"
   },
   {
+    "title": "Unlocking Rust's JSON Potential: Serde, The Important Parts",
+    "author": "Sam Keen",
+    "date": "May 13, 2024",
+    "url": "https://samkeen.dev/unlocking-rusts-json-potential-serde-the-important-parts",
+    "filename": "2024-05-13_unlocking-rusts-json-potential-serde-the-important-parts.md"
+  },
+  {
     "title": "Mastering LLMs: A Comprehensive Course for Developers",
     "author": "Sam Keen",
     "date": "May 06, 2024",
@@ -453,6 +327,13 @@
     "date": "April 29, 2024",
     "url": "https://devthink.ai/p/navigating-the-future-of-ai-in-code-refactoring",
     "filename": "2024-04-29_navigating-the-future-of-ai-in-code-refactoring.md"
+  },
+  {
+    "title": "Building your first Rust app: a guided learning approach",
+    "author": "Sam Keen",
+    "date": "April 29, 2024",
+    "url": "https://samkeen.dev/building-your-first-rust-app-a-guided-learning-approach",
+    "filename": "2024-04-29_building-your-first-rust-app-a-guided-learning-approach.md"
   },
   {
     "title": "Introducing Meta Llama 3",
@@ -469,11 +350,25 @@
     "filename": "2024-04-15_5-practical-methods-to-serve-open-source-llms.md"
   },
   {
+    "title": "Emulating Named Parameters in Rust with Struct and Builder Pattern Techniques",
+    "author": "Sam Keen",
+    "date": "April 14, 2024",
+    "url": "https://samkeen.dev/emulating-named-parameters-in-rust-with-struct-and-builder-pattern-techniques",
+    "filename": "2024-04-14_emulating-named-parameters-in-rust-with-struct-and-builder-pattern-techniques.md"
+  },
+  {
     "title": "OpenDevin: An Open-Source AI Software Engineer Project",
     "author": "Sam Keen",
     "date": "April 07, 2024",
     "url": "https://devthink.ai/p/open-devin-an-open-source-ai-software-engineer-project",
     "filename": "2024-04-07_open-devin-an-open-source-ai-software-engineer-project.md"
+  },
+  {
+    "title": "Configuring logging for your Tauri app",
+    "author": "Sam Keen",
+    "date": "April 06, 2024",
+    "url": "https://samkeen.dev/configuring-logging-for-your-tauri-app",
+    "filename": "2024-04-06_configuring-logging-for-your-tauri-app.md"
   },
   {
     "title": "Claude 3 Opus Dethrones GPT-4 in AI Chatbot Rankings",
@@ -525,11 +420,25 @@
     "filename": "2024-02-18_master-serverless-llm-apps-with-amazon-bedrock.md"
   },
   {
+    "title": "Logging in rust, a beginners guide",
+    "author": "Sam Keen",
+    "date": "February 13, 2024",
+    "url": "https://samkeen.dev/logging-in-rust-a-beginners-guide",
+    "filename": "2024-02-13_logging-in-rust-a-beginners-guide.md"
+  },
+  {
     "title": "Smaug-72B: The New King of Open-Source AI",
     "author": "Sam Keen",
     "date": "February 11, 2024",
     "url": "https://devthink.ai/p/smaug-72b-the-new-king-of-open-source-ai",
     "filename": "2024-02-11_smaug-72b-the-new-king-of-open-source-ai.md"
+  },
+  {
+    "title": "Error Handling in Rust: Life Without Exceptions",
+    "author": "Sam Keen",
+    "date": "February 10, 2024",
+    "url": "https://samkeen.dev/error-handling-in-rust-life-without-exceptions",
+    "filename": "2024-02-10_error-handling-in-rust-life-without-exceptions.md"
   },
   {
     "title": "Master LangChain and Generative AI with Six Practical Projects",
@@ -560,21 +469,21 @@
     "filename": "2024-01-11_aws-generative-ai-week-2024.md"
   },
   {
-    "title": "🔭 LangChain's State of AI 2023 report",
+    "title": "\ud83d\udd2d LangChain's State of AI 2023 report",
     "author": "Sam Keen",
     "date": "January 04, 2024",
     "url": "https://devthink.ai/p/langchains-state-of-ai-2023-report",
     "filename": "2024-01-04_langchains-state-of-ai-2023-report.md"
   },
   {
-    "title": "🗺️ Your 2024 Roadmap to Mastering Generative AI",
+    "title": "\ud83d\uddfa\ufe0f Your 2024 Roadmap to Mastering Generative AI",
     "author": "Sam Keen",
     "date": "December 21, 2023",
     "url": "https://devthink.ai/p/your-2024-roadmap-to-mastering-generative-ai",
     "filename": "2023-12-21_your-2024-roadmap-to-mastering-generative-ai.md"
   },
   {
-    "title": "🆚 RAG vs Large Context Windows; a Comparison",
+    "title": "\ud83c\udd9a RAG vs Large Context Windows; a Comparison",
     "author": "Sam Keen",
     "date": "December 14, 2023",
     "url": "https://devthink.ai/p/rag-vs-large-context-windows-a-comparison",
@@ -588,14 +497,14 @@
     "filename": "2023-12-07_welcome-to-the-gemini-era.md"
   },
   {
-    "title": "🗺️ Navigating the Unreliability of AI Coding Assistants",
+    "title": "\ud83d\uddfa\ufe0f Navigating the Unreliability of AI Coding Assistants",
     "author": "Sam Keen",
     "date": "November 30, 2023",
     "url": "https://devthink.ai/p/navigating-the-unreliability-of-ai-coding-assistants",
     "filename": "2023-11-30_navigating-the-unreliability-of-ai-coding-assistants.md"
   },
   {
-    "title": "🎓 Mastering Large Language Models in 2023: A Comprehensive Guide",
+    "title": "\ud83c\udf93 Mastering Large Language Models in 2023: A Comprehensive Guide",
     "author": "Sam Keen",
     "date": "November 23, 2023",
     "url": "https://devthink.ai/p/mastering-large-language-models-in-2023-a-comprehensive-guide",
@@ -623,7 +532,7 @@
     "filename": "2023-10-19_demystifying-large-language-models-comprehensive-guide.md"
   },
   {
-    "title": "🛠️ Building a Slack Bot with Replit and Google LLMs",
+    "title": "\ud83d\udee0\ufe0f Building a Slack Bot with Replit and Google LLMs",
     "author": "",
     "date": "October 12, 2023",
     "url": "https://devthink.ai/p/building-a-slack-bot-with-replit-and-google-llms",
@@ -644,6 +553,13 @@
     "filename": "2023-09-29_introducing-auto-gen-a-new-framework-for-llm-applications.md"
   },
   {
+    "title": "Leveraging frameworks in LLM apps",
+    "author": "Sam Keen",
+    "date": "September 24, 2023",
+    "url": "https://samkeen.dev/leveraging-frameworks-in-llm-apps",
+    "filename": "2023-09-24_leveraging-frameworks-in-llm-apps.md"
+  },
+  {
     "title": "Exploring LLM Applications with Ray Project",
     "author": "",
     "date": "September 21, 2023",
@@ -651,7 +567,7 @@
     "filename": "2023-09-21_exploring-llm-applications-with-ray-project.md"
   },
   {
-    "title": "🔬 Comparative Analysis of 60+ Large Language Models",
+    "title": "\ud83d\udd2c Comparative Analysis of 60+ Large Language Models",
     "author": "",
     "date": "September 14, 2023",
     "url": "https://devthink.ai/p/comparative-analysis-60-large-language-models",
@@ -672,7 +588,7 @@
     "filename": "2023-08-31_choosing-right-vector-database-solution-comprehensive-guide.md"
   },
   {
-    "title": "🪢 Harnessing GitHub Copilot with Test-Driven Development",
+    "title": "\ud83e\udea2 Harnessing GitHub Copilot with Test-Driven Development",
     "author": "",
     "date": "August 24, 2023",
     "url": "https://devthink.ai/p/harnessing-github-copilot-with-test-driven-development",
@@ -714,14 +630,21 @@
     "filename": "2023-07-20_openllm-plus-best-genai-youtube-channels.md"
   },
   {
-    "title": "🤗 What is Hugging Face",
+    "title": "\ud83e\udd17 What is Hugging Face",
     "author": "",
     "date": "July 13, 2023",
     "url": "https://devthink.ai/p/what-is-hugging-face-plus-code-interpreter",
     "filename": "2023-07-13_what-is-hugging-face-plus-code-interpreter.md"
   },
   {
-    "title": "🔍 Focus on the importance of prompting with LLMs",
+    "title": "What is Hugging Face",
+    "author": "Sam Keen",
+    "date": "July 11, 2023",
+    "url": "https://samkeen.dev/what-is-hugging-face",
+    "filename": "2023-07-11_what-is-hugging-face.md"
+  },
+  {
+    "title": "\ud83d\udd0d Focus on the importance of prompting with LLMs",
     "author": "",
     "date": "July 06, 2023",
     "url": "https://devthink.ai/p/tips-for-prompt-engineering",
@@ -768,6 +691,13 @@
     "date": "May 25, 2023",
     "url": "https://devthink.ai/p/devthinkai-2023-05-25",
     "filename": "2023-05-25_devthinkai-2023-05-25.md"
+  },
+  {
+    "title": "What/Why is DevThink.AI",
+    "author": "Sam Keen",
+    "date": "May 23, 2023",
+    "url": "https://samkeen.dev/whatwhy-is-devthinkai",
+    "filename": "2023-05-23_whatwhy-is-devthinkai.md"
   },
   {
     "title": "Google Colab gains coding assistance",

@@ -1,6 +1,6 @@
 ---
 title: 🛠️ Building a Slack Bot with Replit and Google LLMs
-author: Unknown
+author: Sam Keen
 date: October 12, 2023
 url: https://devthink.ai/p/building-a-slack-bot-with-replit-and-google-llms
 scraped_at: 2025-07-29T19:28:07.243871
